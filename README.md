@@ -49,8 +49,8 @@
 ### 📊 GitHub Stats | 数据统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-three-peach.vercel.app/api?username=yuruichang&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-three-peach.vercel.app/api/top-langs/?username=yuruichang&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-three-peach.vercel.app/api?username=yuruichang&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats-three-peach.vercel.app/api/top-langs/?username=yuruichang&layout=compact&langs_count=7&theme=radical&v=1"/>
 </div>
 
 <!-- 
